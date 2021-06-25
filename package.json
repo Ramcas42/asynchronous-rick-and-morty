@@ -1,0 +1,16 @@
+{
+  "name": "asynchronous-rick-and-morty",
+  "version": "1.0.0",
+  "description": "Async with JS and APIs",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Ramses",
+  "license": "MIT"
+}
