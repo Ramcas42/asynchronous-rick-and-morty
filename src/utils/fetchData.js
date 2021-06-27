@@ -14,3 +14,5 @@ return new Promise((resolve,reject) => {
     xhttp.send();
     });
 }
+
+module.exports = fetchData;
